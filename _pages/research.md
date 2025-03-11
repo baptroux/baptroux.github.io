@@ -15,7 +15,7 @@ nav: true
   </div>
 
 &nbsp; 
-* **Ignorance of Labor Regulations and the Division of Rents between Firms and Workers**\
+* **When Workers Don’t Know Their Rights: Evidence from French Working Time Regulations**\
 (with [T. Breda](https://www.parisschoolofeconomics.eu/equipes/thomas-breda/) and [V. Pecheu](https://vladimirpecheu.com/))  
   <button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
   <div id="abstract2" style="display:none; margin-top:10px;">
@@ -26,7 +26,7 @@ nav: true
 * **Child Penalty and Hours Constraints**\
   <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   <div id="abstract3" style="display:none; margin-top:10px;">
-    A large literature has settled the existence of a child penalty, i.e the idea that the arrival of the first child creates a long-run gender gap in earnings. An important source for the child penalty lies in the differential evolution of hours worked across men and women following the birth of the child. In particular, many women tend to transition to part-time work when they have their first child and remain in such positions for a certain number of years. As their children grow up, women may yet be willing to return to their initial full-time working status. An important question concerns whether they are able to do so, reflecting on an important body of research on involuntary part-time work. In this paper, I use the pseudo-panel approach from Kleven (2024) and mobilize information on hours constraints from the French Labor Force Survey to distinguish what share of the child penalty in hours is driven by constraints, as opposed to voluntary part-time work reflecting gender norms or stronger preferences for child care.  
+    A large literature has settled the existence of a child penalty, i.e the idea that the arrival of the first child creates a long-run gender gap in earnings. An important source for the child penalty lies in the differential evolution of hours worked across men and women following the birth of the child. In particular, many women tend to transition to part-time work when they have their first child and remain in such positions for a certain number of years. As their children grow up, women may yet be willing to return to their initial full-time working status. An important question concerns whether they are able to do so, reflecting on an important body of research on involuntary part-time work. In this paper, I use the pseudo-panel approach from Kleven (2024) and mobilize information on hours constraints from the French Labor Force Survey to distinguish what share of the child penalty in hours is driven by constraints, as opposed to voluntary part-time work reflecting gender norms or stronger taste for child care.  
   </div>
 
 &nbsp; 
