@@ -28,30 +28,20 @@ function hide_buttons(abstract) {
 
 ## Work in Progress
 
-::: {.column width="90%"}
 ### In Search of Working Time? Hours Constraints, Firms and Mobility
 
 Draft available upon request.
 
-:::
-::::
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_inetrav')">Abstract</button>
 <div id="abstract_inetrav" style="display:none;">
 This paper focuses on hours constraints, barriers for employees to work their preferred number of hours at a given wage rate. While previous research has often depicted these constraints as related to firm-specific hours policies, little evidence exists to support this view as data on constraints remain scarce. Exploiting a unique feature of the French Labor Force Survey, I link the  majority of workers reporting their constraints to panel administrative data and provide new insights regarding the role of firms in  hours constraints. First, I decompose the hours gap between constrained and unconstrained workers. Occupational sorting explains most of the variation for involuntary part-time workers, concentrated in low-skilled jobs. Firm-specific organizational factors prove decisive in the full-time sample, with constrained workers disproportionately employed in low-wage and low-hour firms. Second, I exploit the panel dimension of my linked data to study mobilities of hour-constrained workers. These workers move more across firms and increase their hours, but do not achieve significant gains in earnings due to negative wage effects.
 </div> 
-
-
 <br />
 
-:::: {style="display: flex; align-items: center; justify-content: space-between;"}
-::: {.column width="90%"}
 ### When Workers Don’t Know Their Rights: Evidence from French Working Time Regulations
 
 with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html/) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
-
-:::
-
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_forfait')">Abstract</button>
 <div id="abstract_forfait" style="display:none;">
@@ -60,11 +50,7 @@ with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en
 
 <br />
 
-:::: {style="display: flex; align-items: center; justify-content: space-between;"}
-::: {.column width="90%"}
 ### Child Penalty and Hours Constraints
-:::
-
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_childpen')">Abstract</button>
 <div id="abstract_childpen" style="display:none;">
@@ -77,7 +63,8 @@ A large literature has settled the existence of a child penalty, i.e the idea th
 
 -   Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ? 
 with [Philippe Askenazy](http://www.jourdan.ens.fr/~askenazy/) and [Christine Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
-<a href="/assets/pdf/CDE_203_Independants.pdf">Paper</a>
+
+<a href="pdf/CDE_203_Independants.pdf">Paper</a>
 
 ## Policy (in French)
 

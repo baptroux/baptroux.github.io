@@ -1,10 +1,10 @@
-name: "baptroux_website"
+name: "baptisteroux_website"
 title: "Baptiste Roux"
 theme: BR_website.css
 description: |
   Baptiste Roux
 output_dir: "docs"
-base_url: https://baptroux.github.io/
+site: distill::distill_website
 navbar:
   # logo: "one_up.png"
   right:
