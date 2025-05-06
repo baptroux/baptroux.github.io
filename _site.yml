@@ -1,6 +1,7 @@
 name: "baptisteroux_website"
 title: "Baptiste Roux"
 theme: BR_website.css
+favicon: images/favicon.ico
 description: |
   Baptiste Roux
 output_dir: "docs"
