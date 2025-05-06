@@ -1,7 +1,6 @@
-name: "baptisteroux_website"
+name: "baptroux_website"
 title: "Baptiste Roux"
 theme: BR_website.css
-favicon: images/favicon.ico
 description: |
   Baptiste Roux
 output_dir: "docs"
@@ -15,8 +14,6 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Code"
-      href: projects.html
     - text: "CV"
       href: "cv/CV_Baptiste_Roux.pdf"
   # source_url: https://github.com/baptroux/baptisteroux_website
