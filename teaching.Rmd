@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(fig.path = "images/",
+               cache.path = "cache/",
+               cache = FALSE,
+               echo = FALSE, #set to false to hide code
+               message = FALSE,
+               warning = FALSE,
+               out.width = "100%",
+               dpi = 200,
+               fig.align = "center")  
+```
+
+## Past Teaching 
+
+### Paris 1 Panthéon-Sorbonne
+
+- Introduction to Economics (CIPCEA - Preparation to INSP - 2023) 
+- TA Microeconomics II (Undergraduate level - 2019, 2022, 2023)
+
+### Sciences Po
+
+- TA Analysis and Evaluation of Public Policies (Graduate level - 2023)
+
+
+
+
+
