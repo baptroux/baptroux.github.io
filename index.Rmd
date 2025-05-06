@@ -1,7 +1,6 @@
 ---
 title: "Baptiste Roux"
 image: "images/prof_pic_2.jpg"
-favicon: images/favicon.ico
 angle: 130
 site: distill::distill_website
 links:
