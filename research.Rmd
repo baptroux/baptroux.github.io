@@ -30,13 +30,11 @@ function hide_buttons(abstract) {
 
 ### In Search of Working Time? Hours Constraints, Firms and Mobility
 
-Draft available upon request.
+*Draft available upon request.*
 
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_inetrav')">Abstract</button>
-<div id="abstract_inetrav" style="display:none;">
 This paper focuses on hours constraints, barriers for employees to work their preferred number of hours at a given wage rate. While previous research has often depicted these constraints as related to firm-specific hours policies, little evidence exists to support this view as data on constraints remain scarce. Exploiting a unique feature of the French Labor Force Survey, I link the  majority of workers reporting their constraints to panel administrative data and provide new insights regarding the role of firms in  hours constraints. First, I decompose the hours gap between constrained and unconstrained workers. Occupational sorting explains most of the variation for involuntary part-time workers, concentrated in low-skilled jobs. Firm-specific organizational factors prove decisive in the full-time sample, with constrained workers disproportionately employed in low-wage and low-hour firms. Second, I exploit the panel dimension of my linked data to study mobilities of hour-constrained workers. These workers move more across firms and increase their hours, but do not achieve significant gains in earnings due to negative wage effects.
-</div> 
+
 <br />
 
 ### When Workers Don’t Know Their Rights: Evidence from French Working Time Regulations
