@@ -136,3 +136,10 @@ b, strong {
 display: none;
 font-size:13px;
 }
+
+.profile-image {
+  width: 300px;    /* Increase or adjust as needed */
+  height: auto;
+  border-radius: 50%;  /* Optional: keeps it circular */
+  margin-top: 20px;    /* Optional: add spacing */
+}
