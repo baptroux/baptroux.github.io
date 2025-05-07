@@ -16,7 +16,7 @@ output:
 <style>
 /* Increase profile picture size */
 .postcard-image {
-  width: 250px !important;
+  width: 300px !important;
   height: auto !important;
 }
 
