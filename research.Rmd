@@ -39,7 +39,7 @@ This paper focuses on hours constraints, barriers for employees to work their pr
 
 ### When Workers Don’t Know Their Rights: Evidence from French Working Time Regulations
 
-with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html/) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
+with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_forfait')">Abstract</button>
 <div id="abstract_forfait" style="display:none;">
@@ -60,7 +60,7 @@ A large literature has settled the existence of a child penalty, i.e the idea th
 ## Working Papers
 
 -   Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ? 
-with [Philippe Askenazy](http://www.jourdan.ens.fr/~askenazy/) and [Christine Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
+with [Philippe Askenazy](https://cmh.ens.fr/author/philippe-askenazy/) and [Christine Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
 
 <a href="pdf/CDE_203_Independants.pdf">Paper</a>
 
