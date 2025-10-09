@@ -1,2 +1,2 @@
 # baptroux.github.io
-Baptiste Roux's personal website - In construction !
+Baptiste Roux's personal website
