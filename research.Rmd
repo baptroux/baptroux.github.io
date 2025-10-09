@@ -30,20 +30,7 @@ function hide_buttons(abstract) {
 
 ### In Search of Working Time? Hours Constraints, Firms and Mobility
 
-This paper provides novel empirical evidence on hours constraints—barriers for workers to work their preferred hours at a given wage rate—by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Exploiting a unique feature of the French Labor Force Survey, I build a unique linkage covering a majority of surveyed workers and discuss the role of firm and occupational sorting in hours constraints. First, I investigate the employment structures that favor the emergence of hours constraints. Involuntary part-time employment is heavily concentrated in specific low-skill jobs that are intensive in part-time work and are associated with limited outside options. Firm sorting is a strong driver of constraints, as constrained workers are disproportionately employed at low-hours and low-wage firms. Second, I leverage the panel dimension of my data to track labor market trajectories of workers who want to increase their hours. Constrained workers are more likely to move across employers but are heterogeneous in their ability to increase their hours and earnings when moving. Using a welfare framework, I identify the workers' willingness to pay to relax their hours constraints. 
-
-<br />
-
-### When Workers Don’t Know Their Contract: Evidence from French Working Time Regulations 
-
-with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
-
-<a href="pdf/draft_forfaits.pdf">Paper</a> <span style="color: red; font-size: 1.0em; font-weight: bold; margin-left: 8px;">NEW !!!</span>
-
-<button class="button_link" role="button" onclick="hide_buttons('abstract_forfait')">Abstract</button> 
-<div id="abstract_forfait" style="display:none;">
-This paper examines workers' awareness of their contractual working time arrangements and its consequences for labor market outcomes. Combining administrative and survey data at the individual level, we construct a new and unique data set which shows that 20% of the workforce mistakenly think that they work under day contracts, with no monitoring of hours, while they are actually paid through a standard hours contract. This reveals that many workers with various profiles do not know the legal environment governing something as fundamental as their working time. We show that these "ignorant" workers differ from classic workers in terms of working conditions: they perform more unpaid overtime hours but have a higher wage rate per contractual hour, so that their total compensation is similar.  Complementary results on job satisfaction also suggest that firms do not take advantage of their workers' ignorance of labor contracts to extract rents. Rather, "ignorant" workers appear to benefit from an intermediate status between standard hours contracts and day contracts with more flexibility. Leveraging the panel dimension of our data, we further show that these workers are more likely to sign actual day contracts over time, but with smaller effects on their earnings' trajectories.
-</div> 
+This paper provides novel empirical evidence on hours constraints—barriers for workers to work their preferred hours at a given wage rate—by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Exploiting a unique feature of the French Labor Force Survey, I build a unique linkage covering a majority of surveyed workers and discuss new insights on hours constraints. First, I investigate the employment structures that favor the emergence of hours constraints. Involuntary part-time employment is heavily concentrated in specific low-skill jobs that are intensive in part-time work and are associated with limited outside options. Firm sorting is a strong driver of constraints, as constrained workers are disproportionately employed at low-hours and low-wage firms. Second, I leverage the panel dimension of my data to track labor market trajectories of workers who want to increase their hours. Constrained workers are more likely to move across employers but are heterogeneous in their ability to increase their hours and earnings when moving. Using a welfare framework, I identify the workers' willingness to pay to relax their hours constraints. 
 
 <br />
 
@@ -58,7 +45,21 @@ A large literature has settled the existence of a child penalty, i.e the idea th
 
 ## Working Papers
 
--   Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ? 
+### When Workers Don’t Know Their Contract: Evidence from French Working Time Regulations 
+
+with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
+
+<a href="pdf/draft_forfaits.pdf">Paper</a> <span style="color: red; font-size: 1.0em; font-weight: bold; margin-left: 8px;">NEW !!!</span>
+
+<button class="button_link" role="button" onclick="hide_buttons('abstract_forfait')">Abstract</button> 
+<div id="abstract_forfait" style="display:none;">
+This paper examines workers' awareness of their contractual working time arrangements and its consequences for labor market outcomes. Combining administrative and survey data at the individual level, we construct a new and unique data set which shows that 20% of the workforce mistakenly think that they work under day contracts, with no monitoring of hours, while they are actually paid through a standard hours contract. This reveals that many workers with various profiles do not know the legal environment governing something as fundamental as their working time. We show that these "ignorant" workers differ from classic workers in terms of working conditions: they perform more unpaid overtime hours but have a higher wage rate per contractual hour, so that their total compensation is similar.  Complementary results on job satisfaction also suggest that firms do not take advantage of their workers' ignorance of labor contracts to extract rents. Rather, "ignorant" workers appear to benefit from an intermediate status between standard hours contracts and day contracts with more flexibility. Leveraging the panel dimension of our data, we further show that these workers are more likely to sign actual day contracts over time, but with smaller effects on their earnings' trajectories.
+</div> 
+
+<br />
+
+###   Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ? 
+
 with [Philippe Askenazy](https://cmh.ens.fr/author/philippe-askenazy/) and [Christine Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
 
 <a href="pdf/CDE_203_Independants.pdf">Paper</a>
