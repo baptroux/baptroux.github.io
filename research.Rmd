@@ -38,7 +38,7 @@ This paper provides novel empirical evidence on hours constraints—barriers for
 
 with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
 
-<a href="pdf/draft_forfaits.pdf">Paper</a>
+<a href="pdf/draft_forfaits.pdf">Paper</a> <span style="color: red; font-size: 1.0em; font-weight: bold; margin-left: 8px;">NEW !!!</span>
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_forfait')">Abstract</button> 
 <div id="abstract_forfait" style="display:none;">
