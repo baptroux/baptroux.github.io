@@ -1930,7 +1930,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* @import url('https://fonts.googleapis.com/css2?family=Cardo'); */
   @import url('https://fonts.googleapis.com/css2?family=Lora');
   @import url('https://fonts.googleapis.com/css2?family=Lato');
-
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700');
 
   html {
     /*-- Main font sizes --*/
@@ -1947,7 +1947,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --fig-cap-color:   rgba(0, 0, 0, 0.6);
     --hover-color:     rgba(0, 49, 60, 0.4);
     /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    "Lato", serif;
+    --heading-font:    "EB Garamond", serif;  /* Changed from "Lato" */
     --body-font:       "Lora", serif;
     --navbar-font:     "Lato", serif;  /* websites + blogs only */
   }
@@ -1999,6 +1999,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   h1, h2, h3 {
     color: rgba(0, 49, 60, 1);
+    font-family: "EB Garamond", serif;  /* Add this line */
     font-variant: small-caps;
   }
 
@@ -2281,7 +2282,12 @@ function hide_buttons(abstract) {
 <h2 id="work-in-progress">Work in Progress</h2>
 <h3 id="in-search-of-working-time-hours-constraints-firms-and-mobility">In Search of Working Time? Hours Constraints, Firms and Mobility</h3>
 <p><a href="pdf/draft_hc.pdf">[Draft]</a></p>
+<button class="button_link" role="button" onclick="hide_buttons(&#39;abstract_hc&#39;)">
+Abstract
+</button>
+<div id="abstract_hc" style="display:none;">
 <p>Can workers reach their preferred working hours over time? This paper provides novel empirical evidence on hours constraints—barriers for workers to work their preferred hours at a given wage rate—by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers switch employers more frequently and experience increases in hours and earnings through mobility. However, most constrained workers remain unable to adjust their hours over time, particularly low-wage and female workers. Next, I develop a revealed preference method to estimate welfare effects associated with constraints and find that workers would on average require a 1.6% wage increase to be as well off as when working their ideal hours. These findings highlight the important role of hours worked as a job amenity in shaping labor market sorting.</p>
+</div>
 <p><br /></p>
 <h3 id="child-penalty-and-hours-constraints">Child Penalty and Hours Constraints</h3>
 <button class="button_link" role="button" onclick="hide_buttons(&#39;abstract_childpen&#39;)">
@@ -2294,7 +2300,7 @@ Abstract
 <h2 id="working-papers">Working Papers</h2>
 <h3 id="when-workers-dont-know-their-contract-evidence-from-french-working-time-regulations">When Workers Don’t Know Their Contract: Evidence from French Working Time Regulations</h3>
 <p>with <a href="https://www.parisschoolofeconomics.com/breda-thomas/index_en.html">Thomas Breda</a> and <a href="https://vladimirpecheu.com/">Vladimir Pecheu</a></p>
-<p><strong>Revise and Resubmit at Labour Economics</strong></p>
+<p><strong>R&amp;R at Labour Economics</strong></p>
 <p><a href="pdf/draft_forfaits.pdf">[Draft]</a></p>
 <button class="button_link" role="button" onclick="hide_buttons(&#39;abstract_forfait&#39;)">
 Abstract

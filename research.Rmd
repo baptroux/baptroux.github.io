@@ -32,7 +32,10 @@ function hide_buttons(abstract) {
 
 <a href="pdf/draft_hc.pdf">[Draft]</a>
 
-Can workers reach their preferred working hours over time? This paper provides novel empirical evidence on hours constraints—barriers for workers to work their preferred hours at a given wage rate—by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers switch employers more frequently and experience increases in hours and earnings through mobility. However, most constrained workers remain unable to adjust their hours over time, particularly low-wage and female workers. Next, I develop a revealed preference method to estimate welfare effects associated with constraints and find that workers would on average require a 1.6% wage increase to be as well off as when working their ideal hours. These findings highlight the important role of hours worked as a job amenity in shaping labor market sorting.  
+<button class="button_link" role="button" onclick="hide_buttons('abstract_hc')">Abstract</button>
+<div id="abstract_hc" style="display:none;">
+Can workers reach their preferred working hours over time? This paper provides novel empirical evidence on hours constraints—barriers for workers to work their preferred hours at a given wage rate—by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers switch employers more frequently and experience increases in hours and earnings through mobility. However, most constrained workers remain unable to adjust their hours over time, particularly low-wage and female workers. Next, I develop a revealed preference method to estimate welfare effects associated with constraints and find that workers would on average require a 1.6% wage increase to be as well off as when working their ideal hours. These findings highlight the important role of hours worked as a job amenity in shaping labor market sorting. 
+</div> 
 
 <br />
 
@@ -51,7 +54,7 @@ A large literature has settled the existence of a child penalty, i.e the idea th
 
 with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
 
-**Revise and Resubmit at Labour Economics**
+**R&R at Labour Economics**
 
 <a href="pdf/draft_forfaits.pdf">[Draft]</a>
 
