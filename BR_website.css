@@ -144,3 +144,12 @@ font-size:13px;
   border-radius: 50%;  /* Optional: keeps it circular */
   margin-top: 20px;    /* Optional: add spacing */
 }
+
+/* Hide title only on research and teaching pages */
+.research-page h1.title,
+.teaching-page h1.title {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.4);
+  margin-bottom: 10px;
+  font-variant: normal;
+}
