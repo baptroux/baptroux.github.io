@@ -30,7 +30,7 @@ function hide_buttons(abstract) {
 
 ### In Search of Working Time? Hours Constraints, Firms and Mobility 
 
-<a href="pdf/draft_hc_wp.pdf">[Draft]</a> 
+<a href="pdf/draft_hc.pdf">[Draft]</a> 
 <a href="https://www.parisschoolofeconomics.eu/en/publications-hal/in-search-of-working-time-hours-constraints-firms-and-mobility/">[PSE WP]</a>
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_hc')">Abstract</button>
