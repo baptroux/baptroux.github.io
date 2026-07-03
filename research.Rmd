@@ -26,7 +26,7 @@ function hide_buttons(abstract) {
 }
 </script>
 
-## Job Market Paper
+## Working Papers
 
 ### In Search of Working Time? Hours Constraints, Firms and Mobility 
 
@@ -35,12 +35,11 @@ function hide_buttons(abstract) {
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_hc')">Abstract</button>
 <div id="abstract_hc" style="display:none;">
-Can workers reach their ideal working hours over time? This paper provides novel empirical evidence on hours constraints—barriers for workers to work their desired hours at a given wage rate—by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers switch employers more frequently and experience increases in hours and earnings through mobility. However, most constrained workers remain unable to adjust their hours to their desired level within 3 years after their report. Next, I develop a revealed preference method to quantify welfare effects associated with constraints and find that workers would on average accept a 10% reduction in hourly wages to work in a job offering their desired number of hours. These findings highlight the important role of hours worked as a job amenity in shaping labor market sorting. 
+Can workers find a job with their ideal working hours? This paper provides novel empirical evidence on hours constraints, i.e. barriers for workers to work their desired hours at a given wage rate, by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers experience larger increases in hours and earnings than other workers by switching employers. However, most constrained workers remain unable to adjust their hours to their desired level within 3 years after their report. Next, I develop a revealed preference method to quantify welfare effects associated with constraints and find that workers would on average accept a 10% reduction in hourly wages to work in a job offering their desired number of hours. The results highlight the important role of hours worked as a job amenity in shaping labor market sorting. 
 </div> 
 
 <br />
 
-## Working Papers
 
 ### Are Workers Who Misunderstand Their Working Contract Worse Off? 
 
@@ -61,13 +60,22 @@ This paper examines workers' awareness of their contractual working time arrange
 
 with [Philippe Askenazy](https://cmh.ens.fr/author/philippe-askenazy/) and [Christine Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
 
-<a href="pdf/CDE_203_Independants.pdf">[Paper]</a>
+<a href="pdf/CDE_203_Independants.pdf">[CDE WP]</a>
 
 ## Work In Progress
 
-### Child Penalty and Hours Constraints
+### The Role of Hours Constraints in the Child Penalty: Evidence from Germany
 
-### Involuntary Part-Time Work and Job Search
+*Draft available upon request*
+
+<button class="button_link" role="button" onclick="hide_buttons('abstract_cp')">Abstract</button>
+<div id="abstract_cp" style="display:none;">
+A large literature has settled the existence of a child penalty on women's labor market outcomes. Previous studies estimate that one third of the gap in earnings lies in an hours component, in particular through women's shifts to part-time work at childbirth. Surprisingly, this hours gap persists in the long run, even once their children are grown up. This paper investigates the role played by hours constraints, i.e. employer-driven frictions that prevent individuals from working their preferred hours, in shaping the hours child penalty. Drawing on data from the German Socio-Economic Panel (GSOEP), which captures both actual and desired hours, I decompose the child penalty into two components reflecting, respectively, labor supply preferences and hours constraints. On average, hours constraints appear to play no significant role, but this masks important heterogeneity: childbirth doubles the share of underemployed mothers, and in this group, hours constraints account for 40% of the hours penalty.
+</div> 
+
+<br />
+
+### Job Search and Involuntary Part-Time Work
 
 <br />
 
