@@ -35,23 +35,23 @@ function hide_buttons(abstract) {
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_hc')">Abstract</button>
 <div id="abstract_hc" style="display:none;">
-Can workers find a job with their ideal working hours? This paper provides novel empirical evidence on hours constraints, i.e. barriers for workers to work their desired hours at a given wage rate, by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers experience larger increases in hours and earnings than other workers by switching employers. However, most constrained workers remain unable to adjust their hours to their desired level within 3 years after their report. Next, I develop a revealed preference method to quantify welfare effects associated with constraints and find that workers would on average accept a 10% reduction in hourly wages to work in a job offering their desired number of hours. The results highlight the important role of hours worked as a job amenity in shaping labor market sorting. 
+Can workers find a job with their ideal working hours? This paper provides novel empirical evidence on hours constraints, i.e. barriers for workers to work their desired hours at a given wage rate, by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers experience larger increases in hours and earnings than other workers by switching employers. However, most constrained workers remain unable to adjust their hours to their desired level within 5 years after their report. Next, I develop a revealed preference method to quantify welfare effects associated with constraints and find that workers would on average accept a 10% reduction in hourly wages to work in a job offering their desired number of hours. The results highlight the important role of hours worked as a job amenity in shaping labor market sorting. 
 </div> 
 
 <br />
 
 
-### Are Workers Who Misunderstand Their Working Contract Worse Off? 
+### Off the Clock? Working Time Misperceptions and Labour Market Outcomes
 
 with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
 
-*R&R at Labour Economics*
+*Conditionally accepted at Labour Economics*
 
-<a href="pdf/draft_forfaits_v2.pdf">[Draft]</a>
+<a href="pdf/draft_labour_econ_v3.pdf">[Draft]</a>
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_forfait')">Abstract</button> 
 <div id="abstract_forfait" style="display:none;">
-This paper examines workers' awareness of their contractual working time arrangements and its relation with labour market outcomes. Combining administrative and survey data at the individual level, we construct a new and unique data set which shows that nearly 20\% of the workforce mistakenly report that they work under day contracts, with no monitoring of hours, while they are actually paid through a standard hours contract. This reveals that many workers with various profiles may be misinformed about the legal environment governing something as fundamental as their working time. We show that these misreporting workers differ from classic workers in terms of working conditions: they perform more unpaid overtime hours but have a higher wage rate per contractual hour, so that their true compensation per hour worked is similar.  This suggests    that firms do not comply with formal regulations with uninformed workers but do neither take advantage of  their misunderstanding  to extract rents.
+This paper documents a gap between workers' formal working time arrangements and their own reports of them, and examines what this gap reveals about informal working time flexibility. Combining administrative and survey data at the individual level, we construct a new and unique data set which shows that nearly 20\% of the workforce mistakenly report that they work under day contracts, with no monitoring of hours, while they are actually paid through a standard hours contract. This reveals that many workers with various profiles may be misinformed about the legal environment governing something as fundamental as their working time. We show that these misreporting workers differ from classic workers in terms of working conditions: they perform more unpaid overtime hours but have a higher wage rate per contractual hour, so that their true compensation per hour worked is similar. Working time rules appear not to be fully applied to misreporters, but we find no evidence that employers use the discrepancy to extract rents. Non-compliance seems to operate as an informal working time arrangement facilitating a gradual transition between standard hours contracts and day contracts.
 </div> 
 
 <br />
@@ -61,8 +61,6 @@ This paper examines workers' awareness of their contractual working time arrange
 with [Philippe Askenazy](https://cmh.ens.fr/author/philippe-askenazy/) and [Christine Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
 
 <a href="pdf/CDE_203_Independants.pdf">[CDE WP]</a>
-
-## Work In Progress
 
 ### The Role of Hours Constraints in the Child Penalty: Evidence from Germany
 
@@ -74,6 +72,10 @@ A large literature has settled the existence of a child penalty on women's labor
 </div> 
 
 <br />
+
+## Work In Progress
+
+### Roots of Employers' Interests in Hours of Work
 
 ### Job Search and Involuntary Part-Time Work
 
