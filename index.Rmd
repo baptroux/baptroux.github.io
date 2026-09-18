@@ -26,7 +26,7 @@ body {
 }
 </style>
 
-I am **post-doctoral researcher** at Sciences Po, specifically working at [AxPo](https://www.sciencespo.fr/axpo/) and affiliated to the [Department of Economics](https://www.sciencespo.fr/department-economics/). Before that, I obtained my PhD in Economics at the [EHESS](https://www.ehess.fr/fr/).
+I am a **post-doctoral researcher** in Economics at Sciences Po, specifically working at [AxPo](https://www.sciencespo.fr/axpo/) and affiliated to the [Department of Economics](https://www.sciencespo.fr/department-economics/). Before that, I obtained my PhD at [EHESS](https://www.ehess.fr/fr/) in 2026.
 
 My work is predominantly in labor economics and applied econometrics. In particular, I am interested in topics related to **working hours**, from the measurement of hours worked to their impact on labor market dynamics and broader economic issues.
 
