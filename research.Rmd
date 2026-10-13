@@ -10,9 +10,9 @@ opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 ```{=html}
 <div class="research l-page">
 
-  <!-- ============ PUBLISHED PAPERS ============ -->
+  <!-- ============ PUBLICATIONS ============ -->
   <section class="research-section">
-    <h2>Published papers</h2>
+    <h2>Publications</h2>
     <div class="entries">
 
       <article class="paper">

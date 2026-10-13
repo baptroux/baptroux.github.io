@@ -22,7 +22,7 @@ img {
 
 /* Increase base font size */
 body {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 </style>
 
