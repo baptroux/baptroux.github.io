@@ -230,6 +230,11 @@ d-article .research .status {
   font-style: italic;
 }
 
+d-article .research .journal {
+  font-weight: 700;
+  color: #000;
+}
+
 .research .with a {
   color: inherit;
 }
