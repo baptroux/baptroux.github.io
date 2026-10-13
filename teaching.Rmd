@@ -15,8 +15,6 @@ opts_chunk$set(fig.path = "images/",
                fig.align = "center")  
 ```
 
-## Past Teaching 
-
 ### Paris 1 Panthéon-Sorbonne
 
 - Introduction to Economics (CIPCEA - Preparation to INSP - 2023) 

@@ -4,91 +4,127 @@ title: "Research"
 
 ```{r setup, include=FALSE}
 library(knitr)
-opts_chunk$set(fig.path = "images/",
-               cache.path = "cache/",
-               cache = FALSE,
-               echo = FALSE, #set to false to hide code
-               message = FALSE,
-               warning = FALSE,
-               out.width = "100%",
-               dpi = 200,
-               fig.align = "center")  
+opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 ```
 
-<script>
-function hide_buttons(abstract) {
-    var x = document.getElementById(abstract);
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>
+```{=html}
+<div class="research l-page">
 
-## Working Papers
+  <!-- ============ PUBLISHED PAPERS ============ -->
+  <section class="research-section">
+    <h2>Published papers</h2>
+    <div class="entries">
 
-### In Search of Working Time? Hours Constraints, Firms and Mobility 
+      <article class="paper">
+        <p class="paper-title">Off the Clock? Working Time Misperceptions and Labour Market Outcomes</p>
+        <p class="with">with <a href="https://www.parisschoolofeconomics.com/breda-thomas/index_en.html" target="_blank" rel="noopener">Thomas Breda</a> and <a href="https://vladimirpecheu.com/" target="_blank" rel="noopener">Vladimir Pecheu</a></p>
+        <p class="venue"><em>Labour Economics</em>, forthcoming</p>
+        <div class="links"><a href="pdf/draft_labour_econ_v3.pdf" target="_blank" rel="noopener">Paper</a></div>
+        <details>
+          <summary>Abstract</summary>
+          <p>This paper documents a gap between workers' formal working time arrangements and their own reports of them, and examines what this gap reveals about informal working time flexibility. Combining administrative and survey data at the individual level, we construct a new and unique data set which shows that nearly 20% of the workforce mistakenly report that they work under day contracts, with no monitoring of hours, while they are actually paid through a standard hours contract. This reveals that many workers with various profiles may be misinformed about the legal environment governing something as fundamental as their working time. We show that these misreporting workers differ from classic workers in terms of working conditions: they perform more unpaid overtime hours but have a higher wage rate per contractual hour, so that their true compensation per hour worked is similar. Working time rules appear not to be fully applied to misreporters, but we find no evidence that employers use the discrepancy to extract rents. Non-compliance seems to operate as an informal working time arrangement facilitating a gradual transition between standard hours contracts and day contracts.</p>
+        </details>
+      </article>
 
-<a href="pdf/draft_hc.pdf">[Draft]</a> 
-<a href="https://www.parisschoolofeconomics.eu/en/publications-hal/in-search-of-working-time-hours-constraints-firms-and-mobility/">[PSE WP]</a>
+    </div>
+  </section>
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_hc')">Abstract</button>
-<div id="abstract_hc" style="display:none;">
-Can workers find a job with their ideal working hours? This paper provides novel empirical evidence on hours constraints, i.e. barriers for workers to work their desired hours at a given wage rate, by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers experience larger increases in hours and earnings than other workers by switching employers. However, most constrained workers remain unable to adjust their hours to their desired level within 5 years after their report. Next, I develop a revealed preference method to quantify welfare effects associated with constraints and find that workers would on average accept a 10% reduction in hourly wages to work in a job offering their desired number of hours. The results highlight the important role of hours worked as a job amenity in shaping labor market sorting. 
-</div> 
+  <!-- ============ WORKING PAPERS ============ -->
+  <section class="research-section">
+    <h2>Working papers</h2>
+    <div class="entries">
 
-<br />
+      <article class="paper">
+        <p class="paper-title">In Search of Working Time? Hours Constraints, Firms and Mobility</p>
+        <div class="links">
+          <a href="pdf/draft_hc.pdf" target="_blank" rel="noopener">Paper</a>
+          <a href="https://www.parisschoolofeconomics.eu/en/publications-hal/in-search-of-working-time-hours-constraints-firms-and-mobility/" target="_blank" rel="noopener">PSE working paper</a>
+        </div>
+        <details>
+          <summary>Abstract</summary>
+          <p>Can workers find a job with their ideal working hours? This paper provides novel empirical evidence on hours constraints, i.e. barriers for workers to work their desired hours at a given wage rate, by linking self-reported hour preferences from large-scale survey data with administrative employer-employee data between 2003 and 2023. Twenty percent of French salaried workers report wanting to increase their hours at their given wage. Leveraging the panel dimension of my data, I show that constrained workers experience larger increases in hours and earnings than other workers by switching employers. However, most constrained workers remain unable to adjust their hours to their desired level within 5 years after their report. Next, I develop a revealed preference method to quantify welfare effects associated with constraints and find that workers would on average accept a 10% reduction in hourly wages to work in a job offering their desired number of hours. The results highlight the important role of hours worked as a job amenity in shaping labor market sorting.</p>
+        </details>
+      </article>
 
+      <article class="paper">
+        <p class="paper-title">The Role of Hours Constraints in the Child Penalty: Evidence from Germany</p>
+        <p class="venue status">Draft available upon request</p>
+        <details>
+          <summary>Abstract</summary>
+          <p>A large literature has settled the existence of a child penalty on women's labor market outcomes. Previous studies estimate that one third of the gap in earnings lies in an hours component, in particular through women's shifts to part-time work at childbirth. Surprisingly, this hours gap persists in the long run, even once their children are grown up. This paper investigates the role played by hours constraints, i.e. employer-driven frictions that prevent individuals from working their preferred hours, in shaping the hours child penalty. Drawing on data from the German Socio-Economic Panel (GSOEP), which captures both actual and desired hours, I decompose the child penalty into two components reflecting, respectively, labor supply preferences and hours constraints. On average, hours constraints appear to play no significant role, but this masks important heterogeneity: childbirth doubles the share of underemployed mothers, and in this group, hours constraints account for 40% of the hours penalty.</p>
+        </details>
+      </article>
 
-### Off the Clock? Working Time Misperceptions and Labour Market Outcomes
+      <article class="paper">
+        <p class="paper-title">Is the Development of New Self-Employment a Source of Tension in the Salaried Labour Market?</p>
+        <p class="translation" lang="fr">Le développement des nouveaux indépendants est-il un facteur de tension sur le marché du travail salarié ?</p>
+        <p class="with">with <a href="https://cmh.ens.fr/author/philippe-askenazy/" target="_blank" rel="noopener">Philippe Askenazy</a> and <a href="https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp" target="_blank" rel="noopener">Christine Erhel</a></p>
+        <p class="venue"><em>Connaissance de l'Emploi</em> n°203, December 2024</p>
+        <div class="links"><a href="pdf/CDE_203_Independants.pdf" target="_blank" rel="noopener">Paper</a></div>
+      </article>
 
-with [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Vladimir Pecheu](https://vladimirpecheu.com/) 
+    </div>
+  </section>
 
-*Accepted at Labour Economics*
+  <!-- ============ WORK IN PROGRESS ============ -->
+  <section class="research-section wip">
+    <h2>Work in progress</h2>
+    <div class="entries">
 
-<a href="pdf/draft_labour_econ_v3.pdf">[Draft]</a>
+      <article class="paper">
+        <p class="paper-title">Roots of Employers' Interests in Hours of Work</p>
+      </article>
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_forfait')">Abstract</button> 
-<div id="abstract_forfait" style="display:none;">
-This paper documents a gap between workers' formal working time arrangements and their own reports of them, and examines what this gap reveals about informal working time flexibility. Combining administrative and survey data at the individual level, we construct a new and unique data set which shows that nearly 20\% of the workforce mistakenly report that they work under day contracts, with no monitoring of hours, while they are actually paid through a standard hours contract. This reveals that many workers with various profiles may be misinformed about the legal environment governing something as fundamental as their working time. We show that these misreporting workers differ from classic workers in terms of working conditions: they perform more unpaid overtime hours but have a higher wage rate per contractual hour, so that their true compensation per hour worked is similar. Working time rules appear not to be fully applied to misreporters, but we find no evidence that employers use the discrepancy to extract rents. Non-compliance seems to operate as an informal working time arrangement facilitating a gradual transition between standard hours contracts and day contracts.
-</div> 
+      <article class="paper">
+        <p class="paper-title">Job Search and Involuntary Part-Time Work</p>
+      </article>
 
-<br />
+    </div>
+  </section>
 
-###   Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ? 
+  <!-- ============ POLICY REPORTS ============ -->
+  <section class="research-section">
+    <h2>Policy reports</h2>
+    <div class="entries">
 
-with [Philippe Askenazy](https://cmh.ens.fr/author/philippe-askenazy/) and [Christine Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
+      <article class="paper">
+        <p class="paper-title">Declining Productivity in France: A "Math" Problem?</p>
+        <p class="translation" lang="fr">Baisse de la productivité en France : échec en « maths » ?</p>
+        <p class="venue">Focus du CAE n°091-2022, September 2022</p>
+        <div class="links"><a href="https://www.cae-eco.fr/staticfiles/pdf/cae_Focus091.pdf" target="_blank" rel="noopener">Report</a></div>
+      </article>
 
-<a href="pdf/CDE_203_Independants.pdf">[CDE WP]</a>
+      <article class="paper">
+        <p class="paper-title">Short-Time Work and the Pre-Crisis Situation of Firms</p>
+        <p class="translation" lang="fr">Activité partielle et situation pré-crise des entreprises</p>
+        <p class="venue">Focus du CAE n°082-2022, March 2022</p>
+        <div class="links"><a href="https://www.cae-eco.fr/staticfiles/pdf/cae-focus082.pdf" target="_blank" rel="noopener">Report</a></div>
+      </article>
 
-### The Role of Hours Constraints in the Child Penalty: Evidence from Germany
+      <article class="paper">
+        <p class="paper-title">Immigration and Recruitment Difficulties</p>
+        <p class="translation" lang="fr">Immigration et difficultés de recrutement</p>
+        <p class="venue">Focus du CAE n°073-2021, November 2021</p>
+        <div class="links"><a href="https://www.cae-eco.fr/staticfiles/pdf/cae-focus073(2).pdf" target="_blank" rel="noopener">Report</a></div>
+      </article>
 
-*Draft available upon request*
+    </div>
+  </section>
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_cp')">Abstract</button>
-<div id="abstract_cp" style="display:none;">
-A large literature has settled the existence of a child penalty on women's labor market outcomes. Previous studies estimate that one third of the gap in earnings lies in an hours component, in particular through women's shifts to part-time work at childbirth. Surprisingly, this hours gap persists in the long run, even once their children are grown up. This paper investigates the role played by hours constraints, i.e. employer-driven frictions that prevent individuals from working their preferred hours, in shaping the hours child penalty. Drawing on data from the German Socio-Economic Panel (GSOEP), which captures both actual and desired hours, I decompose the child penalty into two components reflecting, respectively, labor supply preferences and hours constraints. On average, hours constraints appear to play no significant role, but this masks important heterogeneity: childbirth doubles the share of underemployed mothers, and in this group, hours constraints account for 40% of the hours penalty.
-</div> 
+  <!-- ============ PHD THESIS ============ -->
+  <section class="research-section">
+    <h2>PhD thesis</h2>
+    <div class="entries">
 
-<br />
+      <article class="paper">
+        <p class="paper-title">PhD Manuscript</p>
+        <div class="links"><a href="pdf/PhD_Manuscript.pdf" target="_blank" rel="noopener">Manuscript</a></div>
+      </article>
 
-## Work In Progress
+    </div>
+  </section>
 
-### Roots of Employers' Interests in Hours of Work
+  <p class="last-updated">Last updated October 2026</p>
 
-### Job Search and Involuntary Part-Time Work
-
-<br />
-
-## Policy (in French)
-
--   [Baisse de la Productivité en France : Echec en « maths » ?](https://www.cae-eco.fr/staticfiles/pdf/cae_Focus091.pdf) (Declining Productivity in France : A "Math" Problem?), Focus du CAE no. 091-2022, September 2022.
--   [Activité Partielle et Situation Pré-Crise des Entreprises](https://www.cae-eco.fr/staticfiles/pdf/cae-focus082.pdf) (Short-Time Work and the Pre-Crisis Situation of Firms), Focus du CAE n°082-2022, March 2022.
--   [Immigration et Difficultés de Recrutement](https://www.cae-eco.fr/staticfiles/pdf/cae-focus073(2).pdf) (Immigration and Recruitment Difficulties), Focus du CAE n°073-2021, November 2021. 
-
-## PhD Manuscript
-
-<a href="pdf/PhD_Manuscript.pdf">[Manuscript]</a>
-
-
+</div>
+```
