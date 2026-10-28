@@ -16,7 +16,7 @@ output:
 <style>
 /* Increase profile picture size */
 img {
-  width: 300px !important;
+  width: 390px !important;
   height: auto !important;
 }
 
@@ -30,12 +30,9 @@ I am a **post-doctoral researcher** in Economics at Sciences Po, specifically wo
 
 My work is predominantly in labor economics and applied econometrics. In particular, I am interested in topics related to **working hours**, from the measurement of hours worked to their impact on labor market dynamics and broader economic issues.
 
-Most of my research also involves linking survey and administrative data to combine rich sets of variables with panel data structure. 
+Most of my research also involves linking survey and administrative data to combine rich sets of variables with panel data structure.
 
-
-
-
+<div style="margin-top: 3em;"></div>
 
 **NEWS:** I've been selected for the [EALE Tour 2027](https://www.eale.nl/)!
-
 
