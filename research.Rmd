@@ -90,6 +90,11 @@ opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
       </article>
       
       <article class="paper">
+      <p class="paper-title">Global Hours Mismatch</p>
+      <p class="with">with <a href="https://amory-gethin.fr/index.html" target="_blank" rel="noopener">Amory Gethin</a></p>
+      </article>
+      
+      <article class="paper">
       <p class="paper-title">Roots of Employers' Interests in Hours of Work</p>
       </article>
       
